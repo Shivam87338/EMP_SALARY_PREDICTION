@@ -15,7 +15,7 @@
     Plotly, SHAP
    FPDF, PyPDF2
 # Run Locally
-  git clone https://github.com/vinaygupta88/EMP_SALARY_PRED.git
+  git clone https://github.com/Shivam87338/EMP_SALARY_PREDICTION.git
   cd employee-salary-app
   python -m venv venv
   venv\Scripts\activate
