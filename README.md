@@ -2,7 +2,7 @@
 # Employee Salary Prediction App
    A powerful AI-based web app to predict employee salaries using Machine Learning, with resume parsing, salary reports, dashboards, and forecast features.
 
-#Features
+# Features
    Real-time Salary Prediction
    Resume Upload & Auto-Fill
    PDF Salary Report Generation
